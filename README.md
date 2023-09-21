@@ -12,9 +12,9 @@
 
 ## Social Networks...
 - CodePen:
-    - <a href="https://codepen.io/ediissonn"><img align="left" alt="Ediissonn| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" /></a>
+    - <a href="https://codepen.io/ediissonn_dev"><img align="left" alt="Ediissonn| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" /></a>
 - Twitter:
-    - <a href="https://twitter.com/ediissonnProgra"><img align="left" alt="Ediissonn| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a> 
+    - <a href="https://twitter.com/ediissonn_dev"><img align="left" alt="Ediissonn| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a> 
 
 
 
